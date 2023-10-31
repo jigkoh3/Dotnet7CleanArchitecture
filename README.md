@@ -1,4 +1,4 @@
-Certainly! Here are step-by-step instructions to create a .NET 7 Clean Architecture CQRS project using the command line interface (CLI):
+Here are step-by-step instructions to create a .NET 7 Clean Architecture CQRS project using the command line interface (CLI):
 1. **Open a Terminal or Command Prompt:**
   - Open your terminal or command prompt where you want to create the project.
 2. **Create a New Solution:**
